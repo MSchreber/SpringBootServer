@@ -89,7 +89,25 @@ This server is designed to be modular. Planned features include:
 
 ## Screenshots
 
-*(Insert sample gallery view and viewer here)*
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](docs/homepage.png)
+
+---
+
+### 🔐 Login View
+![Login](docs/briefkasten_login.png)
+
+---
+
+### 📬 Mailbox Overview
+![Mailbox](docs/briefkasten.png)
+
+---
+
+### 🔍 Zoomed Letter View
+![Zoomed Letter](docs/brief_zoom.png)
 
 ---
 
